@@ -1,0 +1,4 @@
+hvs.CAESIN5irc0kBstl8KyiVaeX2z-NRsEA1qiJKC0phCEVSXD9Gh4KHGh2cy5PbG9xWXdXSVFmMVVUWnd1UjY0cFBReDg
+
+// You'll get GH013 "Repository rule violations" error if you try to push this file to your repository
+// So I allowed these credentials to be exposed (not recommended in real projects) just for learning purposes
