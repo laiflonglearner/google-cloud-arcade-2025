@@ -1,3 +1,5 @@
+# Lab 1 - Speech to Text Transcription with the Cloud Speech API
+
 This lab focuses on using the Google Cloud Speech-to-Text API to transcribe audio files into text.
 
 Lab links:
