@@ -1,0 +1,12 @@
+2025-08-16 13:21:15.463 [info] 
+
+
+
+
+2025-08-16 13:21:15.464 [info] Extension host agent started.
+2025-08-16 13:21:15.499 [info] Started initializing default profile extensions in extensions installation folder. file:///home/student_02_d167302a0aea/.codeoss/extensions
+2025-08-16 13:21:15.510 [info] ComputeTargetPlatform: linux-x64
+2025-08-16 13:21:15.528 [info] Completed initializing default profile extensions in extensions installation folder. file:///home/student_02_d167302a0aea/.codeoss/extensions
+2025-08-16 13:21:21.724 [info] [127.0.0.1][67c250db][ManagementConnection] New connection established.
+2025-08-16 13:21:21.843 [info] [127.0.0.1][410fbe53][ExtensionHostConnection] New connection established.
+2025-08-16 13:21:24.131 [info] [127.0.0.1][410fbe53][ExtensionHostConnection] <2232> Launched Extension Host Process.
