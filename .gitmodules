@@ -1,0 +1,3 @@
+[submodule "Level 2- Building with Cloud Tools/2a-creating-app-logic/lab-15/policy-library"]
+	path = Level 2- Building with Cloud Tools/2a-creating-app-logic/lab-15/policy-library
+	url = https://github.com/GoogleCloudPlatform/policy-library.git
