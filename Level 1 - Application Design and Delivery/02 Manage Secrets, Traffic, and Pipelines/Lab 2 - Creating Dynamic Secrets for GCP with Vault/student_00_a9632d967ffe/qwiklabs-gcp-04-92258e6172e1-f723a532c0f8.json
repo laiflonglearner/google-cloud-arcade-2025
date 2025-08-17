@@ -1,0 +1,14 @@
+{
+  "type": "service_account",
+  "project_id": "qwiklabs-gcp-04-92258e6172e1",
+  "private_key_id": "f723a532c0f8d77da70b94a9a6a3bd346e753505",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDKevg97f3ywwdz\nVDR+m7uMBBBuRzSP3AKR0mQuMej0gLaob3cHiMEwP77knTK35c11l+wy5HyDHobb\nSveQvoBVitDpYiLRrZAxcz7hn5l8AGY9X7Vu0MdEdJ3+aI7wGJ807CiAcPl6qCXb\naJnCxmODAW4VcKWHrP/sp1pFJuQFjl4A3AwUOcUyT7FogEzd97c6hQYyJfNhufKv\nP12a1s5VQaQTE+A8nzNOczuBseCuuIx2/8zIE/Q4XLUPKJ5HVAL7MUiER5COyAOr\nDajsVKP1fi9tUNHLt8cOIxd/skmTBW520x8XEzut3EphxJIBqOr9Q3n/SFklo4zf\n6E9t4n0FAgMBAAECggEAAKoMnG9mcOBw6tDw5yVtpRTyVNpI8tve6kmNaJVjVUIC\n12SeOFkbgSQEZU2at/26AdPAw536RpfYC2ogi8oEM8Oj0dAvmw59tZvSLf1PDJgX\nvcXNm5J1xOS5C/ed2G3MP+kybNFyEBPzI9ghAQGTm/9qNAnNkTdhE46s/iMVhmsi\npOLcQQDelYEKF/Ho1uYJjyTV33r0u6kV4AGvKKGOS7/rZ8YaLKxpc3yOYCtVy2vq\nbaEOWkzWFb3B8H6xOj4VHIPX8oDBxpdVt7q8Ti9s8utjHrk2AkEqQ4tGHeBMR21Y\nnA1ZCqHZA461EWJAJqCWRpasj19KchTwyFiSE+lIYQKBgQD/R3Gp1lybDE1KwlOT\nWVjWorHYjnqmyYPsMRYfSSPiBPf2vJquSTht3McKEYcT5Hp1DeQZK2f3vN+hzyHd\nmlXkUIUHQNK+pdnwuyiNTGxPFlppm7lyo0t3OnbQcuZ7votiu2BcqYaJzJ7EF4TM\nG7mYfGVTCUxiFHJKam1JasMKeQKBgQDLDVq85Zr6E2gW5BZbrnEV9WuRSDBnPx/0\nhdSB0ECz/K6zqAbzHGCrXpzgzDH8tSelpUHTVjITm9MvhrdOckeFi8S1ig9HX946\nJ1FrfuNos9/bHpewwwG49F9JQLFshSV2a7jmLDFut+Xb6WxiBmVRGocN5q7JYIJj\ndQ9bKy1j7QKBgFIwQlwX9ADHWSs0nYvXPE7+WpwKY1rHjn3A4Ap6ld7zEpKR7osm\nb9CPQFXxhrfU28hMDKA95V9Ro/6InbKnOfgkJHBNYoyXATAMUeYMMOLVo45U4MQT\n5vwgCpjaJXK5yk6jXUb4HaTICGXB3LOKSZrakhTF7Z22T4W99impAdqhAoGARyoa\nCCRMqaLNk2BDOcSsm66VEakEVds43uFctlZ/ptVDgXG9Zc0nUEhroRnP1yrCh3qg\n1GncSSUO4hRMAHFrAbIXsix96F0ALM+E6LDjENoh9dEGBwyBeQokry6+QDN2Csf8\nWKdad9x58hYgR0bIkaFDfirATZHGgQcQ57n9QY0CgYEAk9LyLHepmS/MttmYOFaB\nkK+DAMmdJctNwB8SDtI832AnFuDuxkIb3PABxfry7y590mahhf8CVYfHdv7UiTno\n9P4LztbMaBeTyoAXyfeod6qR0ALro8s/Vz71tWOlzJRRPr8/x73feciO2Sc7NUta\nssD3NgmbHoG1KV6yfT88+Iw=\n-----END PRIVATE KEY-----\n",
+  "client_email": "qwiklabs-gcp-04-92258e6172e1@qwiklabs-gcp-04-92258e6172e1.iam.gserviceaccount.com",
+  "client_id": "117382019005516942558",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/qwiklabs-gcp-04-92258e6172e1%40qwiklabs-gcp-04-92258e6172e1.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com",
+  "_comment": "You'll get GH013 Repository rule violations error if you try to push this file to your repository. These credentials are allowed to be exposed (not recommended in real projects) just for learning purposes."
+}
