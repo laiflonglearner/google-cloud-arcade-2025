@@ -1,0 +1,501 @@
+	ID	Name	Name	ID	Count
+1	20552	Example Product 20552	Los Angeles CA	4	5,380
+2	28305	Example Product 28305	Chicago IL	2	3,406
+3	13596	Example Product 13596	Chicago IL	2	3,232
+4	23641	Example Product 23641	Port Authority of New York/New Jersey NY/NJ	6	2,875
+5	20547	Example Product 20547	Los Angeles CA	4	2,627
+6	20542	Example Product 20542	Los Angeles CA	4	1,802
+7	22699	Example Product 22699	Los Angeles CA	4	1,784
+8	8263	Example Product 8263	Port Authority of New York/New Jersey NY/NJ	6	1,741
+9	21659	Example Product 21659	Philadelphia PA	7	1,424
+10	17082	Example Product 17082	Houston TX	3	1,255
+11	13595	Example Product 13595	Savannah GA	10	1,208
+12	22700	Example Product 22700	Los Angeles CA	4	1,208
+13	16109	Example Product 16109	Chicago IL	2	1,066
+14	28302	Example Product 28302	New Orleans LA	5	1,006
+15	13603	Example Product 13603	New Orleans LA	5	975
+16	22705	Example Product 22705	Charleston SC	9	853
+17	28304	Example Product 28304	Houston TX	3	823
+18	20551	Example Product 20551	Los Angeles CA	4	795
+19	18068	Example Product 18068	Savannah GA	10	763
+20	5709	Example Product 5709	Mobile AL	8	710
+21	18052	Example Product 18052	Chicago IL	2	673
+22	811	Example Product 811	Houston TX	3	665
+23	21656	Example Product 21656	Philadelphia PA	7	643
+24	4268	Example Product 4268	Los Angeles CA	4	602
+25	98	Example Product 98	Memphis TN	1	598
+26	16110	Example Product 16110	Chicago IL	2	595
+27	2442	Example Product 2442	Memphis TN	1	593
+28	21655	Example Product 21655	Philadelphia PA	7	590
+29	12728	Example Product 12728	Los Angeles CA	4	585
+30	18050	Example Product 18050	Charleston SC	9	571
+31	18129	Example Product 18129	Houston TX	3	559
+32	21654	Example Product 21654	Philadelphia PA	7	555
+33	23650	Example Product 23650	Port Authority of New York/New Jersey NY/NJ	6	509
+34	21662	Example Product 21662	Philadelphia PA	7	505
+35	4283	Example Product 4283	New Orleans LA	5	504
+36	25374	Example Product 25374	Savannah GA	10	490
+37	20559	Example Product 20559	Los Angeles CA	4	488
+38	18057	Example Product 18057	Philadelphia PA	7	487
+39	7112	Example Product 7112	Philadelphia PA	7	484
+40	18807	Example Product 18807	Port Authority of New York/New Jersey NY/NJ	6	482
+41	21661	Example Product 21661	Philadelphia PA	7	474
+42	16097	Example Product 16097	Houston TX	3	465
+43	5101	Example Product 5101	New Orleans LA	5	463
+44	23649	Example Product 23649	Port Authority of New York/New Jersey NY/NJ	6	460
+45	24512	Example Product 24512	Houston TX	3	456
+46	108	Example Product 108	Port Authority of New York/New Jersey NY/NJ	6	443
+47	28309	Example Product 28309	Port Authority of New York/New Jersey NY/NJ	6	426
+48	16102	Example Product 16102	Charleston SC	9	416
+49	4279	Example Product 4279	Los Angeles CA	4	409
+50	18049	Example Product 18049	Chicago IL	2	399
+51	26470	Example Product 26470	Los Angeles CA	4	398
+52	22704	Example Product 22704	New Orleans LA	5	394
+53	18045	Example Product 18045	Charleston SC	9	366
+54	18066	Example Product 18066	Charleston SC	9	358
+55	4274	Example Product 4274	New Orleans LA	5	354
+56	21660	Example Product 21660	Philadelphia PA	7	352
+57	8027	Example Product 8027	Los Angeles CA	4	347
+58	16003	Example Product 16003	Philadelphia PA	7	341
+59	109	Example Product 109	Chicago IL	2	334
+60	18063	Example Product 18063	Chicago IL	2	332
+61	27417	Example Product 27417	Los Angeles CA	4	313
+62	22726	Example Product 22726	Savannah GA	10	311
+63	7101	Example Product 7101	Philadelphia PA	7	305
+64	24481	Example Product 24481	Houston TX	3	304
+65	2423	Example Product 2423	Chicago IL	2	301
+66	16093	Example Product 16093	Port Authority of New York/New Jersey NY/NJ	6	291
+67	4127	Example Product 4127	Charleston SC	9	288
+68	18071	Example Product 18071	Houston TX	3	288
+69	16153	Example Product 16153	Mobile AL	8	286
+70	14333	Example Product 14333	Memphis TN	1	284
+71	4271	Example Product 4271	Los Angeles CA	4	277
+72	4287	Example Product 4287	Los Angeles CA	4	277
+73	2426	Example Product 2426	Los Angeles CA	4	274
+74	19800	Example Product 19800	Philadelphia PA	7	272
+75	26457	Example Product 26457	Houston TX	3	265
+76	22707	Example Product 22707	Memphis TN	1	263
+77	12724	Example Product 12724	Houston TX	3	262
+78	7110	Example Product 7110	Memphis TN	1	260
+79	13598	Example Product 13598	Houston TX	3	253
+80	28347	Example Product 28347	Memphis TN	1	251
+81	28312	Example Product 28312	New Orleans LA	5	250
+82	2428	Example Product 2428	Port Authority of New York/New Jersey NY/NJ	6	243
+83	21658	Example Product 21658	Port Authority of New York/New Jersey NY/NJ	6	238
+84	18056	Example Product 18056	Memphis TN	1	224
+85	13601	Example Product 13601	Philadelphia PA	7	222
+86	28306	Example Product 28306	Houston TX	3	222
+87	121	Example Product 121	Los Angeles CA	4	221
+88	21672	Example Product 21672	Port Authority of New York/New Jersey NY/NJ	6	221
+89	17112	Example Product 17112	Philadelphia PA	7	219
+90	124	Example Product 124	Charleston SC	9	218
+91	13604	Example Product 13604	New Orleans LA	5	215
+92	2432	Example Product 2432	Memphis TN	1	215
+93	2434	Example Product 2434	Houston TX	3	212
+94	3221	Example Product 3221	Charleston SC	9	212
+95	16085	Example Product 16085	Houston TX	3	210
+96	17138	Example Product 17138	Chicago IL	2	210
+97	18061	Example Product 18061	Memphis TN	1	210
+98	3187	Example Product 3187	Memphis TN	1	209
+99	17094	Example Product 17094	Houston TX	3	207
+100	16005	Example Product 16005	Philadelphia PA	7	207
+101	16113	Example Product 16113	Houston TX	3	207
+102	20557	Example Product 20557	Los Angeles CA	4	204
+103	810	Example Product 810	Chicago IL	2	203
+104	18076	Example Product 18076	Houston TX	3	201
+105	4344	Example Product 4344	Los Angeles CA	4	199
+106	21674	Example Product 21674	Port Authority of New York/New Jersey NY/NJ	6	197
+107	18048	Example Product 18048	Savannah GA	10	197
+108	16091	Example Product 16091	Houston TX	3	195
+109	18054	Example Product 18054	Los Angeles CA	4	194
+110	16129	Example Product 16129	Chicago IL	2	193
+111	4302	Example Product 4302	Memphis TN	1	188
+112	16105	Example Product 16105	Port Authority of New York/New Jersey NY/NJ	6	188
+113	21664	Example Product 21664	Philadelphia PA	7	186
+114	18072	Example Product 18072	Chicago IL	2	186
+115	8032	Example Product 8032	Charleston SC	9	184
+116	8030	Example Product 8030	Houston TX	3	183
+117	158	Example Product 158	Houston TX	3	183
+118	24498	Example Product 24498	Houston TX	3	181
+119	21668	Example Product 21668	Philadelphia PA	7	175
+120	4280	Example Product 4280	Los Angeles CA	4	174
+121	14338	Example Product 14338	New Orleans LA	5	174
+122	24480	Example Product 24480	Memphis TN	1	173
+123	13606	Example Product 13606	Houston TX	3	171
+124	820	Example Product 820	Memphis TN	1	170
+125	4285	Example Product 4285	Mobile AL	8	165
+126	17115	Example Product 17115	Charleston SC	9	164
+127	130	Example Product 130	Charleston SC	9	162
+128	13602	Example Product 13602	Memphis TN	1	162
+129	25366	Example Product 25366	Houston TX	3	160
+130	7468	Example Product 7468	Charleston SC	9	158
+131	28340	Example Product 28340	New Orleans LA	5	158
+132	10353	Example Product 10353	New Orleans LA	5	157
+133	4166	Example Product 4166	Charleston SC	9	157
+134	12731	Example Product 12731	Los Angeles CA	4	156
+135	8029	Example Product 8029	Los Angeles CA	4	153
+136	4278	Example Product 4278	Los Angeles CA	4	151
+137	26461	Example Product 26461	Houston TX	3	151
+138	15287	Example Product 15287	New Orleans LA	5	151
+139	18060	Example Product 18060	Houston TX	3	150
+140	7116	Example Product 7116	New Orleans LA	5	147
+141	17093	Example Product 17093	Houston TX	3	145
+142	341	Example Product 341	Port Authority of New York/New Jersey NY/NJ	6	144
+143	21680	Example Product 21680	Philadelphia PA	7	142
+144	22703	Example Product 22703	Philadelphia PA	7	142
+145	27437	Example Product 27437	Los Angeles CA	4	142
+146	3281	Example Product 3281	Charleston SC	9	142
+147	21665	Example Product 21665	Memphis TN	1	141
+148	24487	Example Product 24487	Houston TX	3	140
+149	8856	Example Product 8856	Chicago IL	2	139
+150	3412	Example Product 3412	Chicago IL	2	138
+151	22713	Example Product 22713	Philadelphia PA	7	138
+152	4270	Example Product 4270	New Orleans LA	5	138
+153	22710	Example Product 22710	Philadelphia PA	7	138
+154	5714	Example Product 5714	Houston TX	3	137
+155	25369	Example Product 25369	Houston TX	3	135
+156	8028	Example Product 8028	Port Authority of New York/New Jersey NY/NJ	6	132
+157	7105	Example Product 7105	New Orleans LA	5	130
+158	5710	Example Product 5710	Port Authority of New York/New Jersey NY/NJ	6	130
+159	2438	Example Product 2438	Charleston SC	9	130
+160	4140	Example Product 4140	Port Authority of New York/New Jersey NY/NJ	6	130
+161	13599	Example Product 13599	Memphis TN	1	130
+162	21673	Example Product 21673	Philadelphia PA	7	129
+163	21687	Example Product 21687	Port Authority of New York/New Jersey NY/NJ	6	129
+164	18065	Example Product 18065	Chicago IL	2	128
+165	7120	Example Product 7120	Philadelphia PA	7	128
+166	13612	Example Product 13612	Charleston SC	9	127
+167	8031	Example Product 8031	Charleston SC	9	127
+168	28384	Example Product 28384	Los Angeles CA	4	124
+169	102	Example Product 102	Philadelphia PA	7	124
+170	7109	Example Product 7109	Los Angeles CA	4	123
+171	28324	Example Product 28324	Philadelphia PA	7	122
+172	8034	Example Product 8034	Chicago IL	2	121
+173	18084	Example Product 18084	Memphis TN	1	121
+174	23642	Example Product 23642	Houston TX	3	121
+175	7155	Example Product 7155	Memphis TN	1	121
+176	4058	Example Product 4058	Charleston SC	9	120
+177	4286	Example Product 4286	Chicago IL	2	118
+178	21670	Example Product 21670	Port Authority of New York/New Jersey NY/NJ	6	118
+179	141	Example Product 141	Charleston SC	9	117
+180	4312	Example Product 4312	Los Angeles CA	4	117
+181	18081	Example Product 18081	Chicago IL	2	116
+182	17103	Example Product 17103	Mobile AL	8	116
+183	26464	Example Product 26464	Memphis TN	1	116
+184	10340	Example Product 10340	Chicago IL	2	116
+185	3211	Example Product 3211	Charleston SC	9	115
+186	7103	Example Product 7103	Houston TX	3	114
+187	4281	Example Product 4281	Los Angeles CA	4	114
+188	12751	Example Product 12751	Chicago IL	2	113
+189	25372	Example Product 25372	Houston TX	3	112
+190	16119	Example Product 16119	Chicago IL	2	112
+191	6279	Example Product 6279	Memphis TN	1	112
+192	3265	Example Product 3265	Memphis TN	1	112
+193	16106	Example Product 16106	Los Angeles CA	4	111
+194	25381	Example Product 25381	Savannah GA	10	111
+195	7104	Example Product 7104	Houston TX	3	110
+196	18059	Example Product 18059	Charleston SC	9	109
+197	7106	Example Product 7106	Memphis TN	1	109
+198	20565	Example Product 20565	New Orleans LA	5	109
+199	4059	Example Product 4059	Memphis TN	1	108
+200	24482	Example Product 24482	Memphis TN	1	108
+201	3185	Example Product 3185	Memphis TN	1	107
+202	16117	Example Product 16117	Houston TX	3	107
+203	1528	Example Product 1528	New Orleans LA	5	107
+204	7100	Example Product 7100	Houston TX	3	107
+205	13624	Example Product 13624	New Orleans LA	5	106
+206	3193	Example Product 3193	Philadelphia PA	7	106
+207	20560	Example Product 20560	Los Angeles CA	4	105
+208	5717	Example Product 5717	Charleston SC	9	104
+209	4055	Example Product 4055	Los Angeles CA	4	103
+210	16100	Example Product 16100	Port Authority of New York/New Jersey NY/NJ	6	103
+211	8040	Example Product 8040	Charleston SC	9	103
+212	28333	Example Product 28333	Los Angeles CA	4	103
+213	25380	Example Product 25380	Savannah GA	10	103
+214	18088	Example Product 18088	Chicago IL	2	103
+215	176	Example Product 176	Charleston SC	9	102
+216	28392	Example Product 28392	Port Authority of New York/New Jersey NY/NJ	6	102
+217	28335	Example Product 28335	Memphis TN	1	101
+218	4275	Example Product 4275	Los Angeles CA	4	100
+219	4052	Example Product 4052	New Orleans LA	5	100
+220	120	Example Product 120	Charleston SC	9	100
+221	6300	Example Product 6300	New Orleans LA	5	100
+222	4267	Example Product 4267	Los Angeles CA	4	99
+223	24502	Example Product 24502	Port Authority of New York/New Jersey NY/NJ	6	99
+224	17121	Example Product 17121	Memphis TN	1	98
+225	13629	Example Product 13629	Savannah GA	10	98
+226	27419	Example Product 27419	Los Angeles CA	4	98
+227	21663	Example Product 21663	Houston TX	3	97
+228	812	Example Product 812	New Orleans LA	5	96
+229	26474	Example Product 26474	Houston TX	3	96
+230	9510	Example Product 9510	Chicago IL	2	96
+231	5102	Example Product 5102	Memphis TN	1	93
+232	22711	Example Product 22711	Port Authority of New York/New Jersey NY/NJ	6	93
+233	28351	Example Product 28351	Memphis TN	1	93
+234	26495	Example Product 26495	Mobile AL	8	93
+235	21676	Example Product 21676	Houston TX	3	92
+236	26452	Example Product 26452	Los Angeles CA	4	92
+237	2462	Example Product 2462	Chicago IL	2	92
+238	4310	Example Product 4310	Memphis TN	1	91
+239	7135	Example Product 7135	Mobile AL	8	91
+240	122	Example Product 122	Los Angeles CA	4	90
+241	17099	Example Product 17099	Houston TX	3	90
+242	7119	Example Product 7119	Chicago IL	2	90
+243	7146	Example Product 7146	Charleston SC	9	90
+244	13607	Example Product 13607	Houston TX	3	89
+245	9522	Example Product 9522	Houston TX	3	89
+246	22712	Example Product 22712	Memphis TN	1	89
+247	13632	Example Product 13632	Chicago IL	2	88
+248	28316	Example Product 28316	Memphis TN	1	88
+249	28310	Example Product 28310	Memphis TN	1	88
+250	21671	Example Product 21671	Houston TX	3	87
+251	8272	Example Product 8272	Port Authority of New York/New Jersey NY/NJ	6	87
+252	5104	Example Product 5104	Memphis TN	1	87
+253	2422	Example Product 2422	Port Authority of New York/New Jersey NY/NJ	6	86
+254	21682	Example Product 21682	Los Angeles CA	4	84
+255	17092	Example Product 17092	Houston TX	3	84
+256	3236	Example Product 3236	Charleston SC	9	84
+257	13619	Example Product 13619	Memphis TN	1	84
+258	5111	Example Product 5111	Memphis TN	1	83
+259	105	Example Product 105	Mobile AL	8	83
+260	22719	Example Product 22719	Los Angeles CA	4	83
+261	5113	Example Product 5113	Savannah GA	10	83
+262	26456	Example Product 26456	Philadelphia PA	7	83
+263	8864	Example Product 8864	Chicago IL	2	83
+264	28330	Example Product 28330	Houston TX	3	82
+265	8270	Example Product 8270	Port Authority of New York/New Jersey NY/NJ	6	82
+266	6287	Example Product 6287	Houston TX	3	82
+267	818	Example Product 818	New Orleans LA	5	82
+268	21669	Example Product 21669	Port Authority of New York/New Jersey NY/NJ	6	82
+269	16111	Example Product 16111	Houston TX	3	81
+270	16107	Example Product 16107	Port Authority of New York/New Jersey NY/NJ	6	81
+271	21692	Example Product 21692	Philadelphia PA	7	81
+272	17098	Example Product 17098	Philadelphia PA	7	81
+273	10343	Example Product 10343	Memphis TN	1	81
+274	18845	Example Product 18845	Port Authority of New York/New Jersey NY/NJ	6	80
+275	18826	Example Product 18826	Memphis TN	1	80
+276	16127	Example Product 16127	Chicago IL	2	80
+277	21677	Example Product 21677	New Orleans LA	5	80
+278	21683	Example Product 21683	Houston TX	3	79
+279	18890	Example Product 18890	Philadelphia PA	7	79
+280	18815	Example Product 18815	Houston TX	3	78
+281	10341	Example Product 10341	Port Authority of New York/New Jersey NY/NJ	6	78
+282	4054	Example Product 4054	Houston TX	3	77
+283	5711	Example Product 5711	Memphis TN	1	77
+284	22823	Example Product 22823	Los Angeles CA	4	77
+285	21666	Example Product 21666	Houston TX	3	77
+286	12714	Example Product 12714	Los Angeles CA	4	77
+287	22721	Example Product 22721	Los Angeles CA	4	77
+288	25375	Example Product 25375	Houston TX	3	77
+289	18046	Example Product 18046	Philadelphia PA	7	77
+290	23667	Example Product 23667	Port Authority of New York/New Jersey NY/NJ	6	77
+291	22701	Example Product 22701	Los Angeles CA	4	76
+292	18823	Example Product 18823	Houston TX	3	76
+293	3260	Example Product 3260	Charleston SC	9	76
+294	1532	Example Product 1532	Port Authority of New York/New Jersey NY/NJ	6	76
+295	28317	Example Product 28317	Memphis TN	1	76
+296	10347	Example Product 10347	Houston TX	3	75
+297	6299	Example Product 6299	Memphis TN	1	75
+298	220	Example Product 220	Houston TX	3	75
+299	26522	Example Product 26522	Mobile AL	8	75
+300	16141	Example Product 16141	Chicago IL	2	75
+301	23668	Example Product 23668	Philadelphia PA	7	75
+302	22695	Example Product 22695	Philadelphia PA	7	74
+303	24474	Example Product 24474	Philadelphia PA	7	74
+304	829	Example Product 829	Port Authority of New York/New Jersey NY/NJ	6	74
+305	2451	Example Product 2451	Port Authority of New York/New Jersey NY/NJ	6	73
+306	6276	Example Product 6276	Los Angeles CA	4	72
+307	16134	Example Product 16134	Port Authority of New York/New Jersey NY/NJ	6	72
+308	28439	Example Product 28439	New Orleans LA	5	72
+309	4282	Example Product 4282	Los Angeles CA	4	72
+310	7102	Example Product 7102	Memphis TN	1	72
+311	21693	Example Product 21693	Memphis TN	1	72
+312	18818	Example Product 18818	Philadelphia PA	7	72
+313	310	Example Product 310	Houston TX	3	71
+314	28363	Example Product 28363	Memphis TN	1	70
+315	7476	Example Product 7476	Philadelphia PA	7	70
+316	7111	Example Product 7111	New Orleans LA	5	70
+317	28315	Example Product 28315	Memphis TN	1	69
+318	7114	Example Product 7114	Philadelphia PA	7	68
+319	11083	Example Product 11083	Memphis TN	1	68
+320	12747	Example Product 12747	Houston TX	3	68
+321	20558	Example Product 20558	Los Angeles CA	4	68
+322	21761	Example Product 21761	Los Angeles CA	4	67
+323	7189	Example Product 7189	Charleston SC	9	67
+324	20563	Example Product 20563	Los Angeles CA	4	67
+325	16121	Example Product 16121	Port Authority of New York/New Jersey NY/NJ	6	67
+326	22708	Example Product 22708	Philadelphia PA	7	67
+327	17135	Example Product 17135	Mobile AL	8	67
+328	26530	Example Product 26530	Houston TX	3	67
+329	125	Example Product 125	Memphis TN	1	67
+330	21686	Example Product 21686	Charleston SC	9	67
+331	2431	Example Product 2431	Chicago IL	2	66
+332	15246	Example Product 15246	Port Authority of New York/New Jersey NY/NJ	6	65
+333	28371	Example Product 28371	Port Authority of New York/New Jersey NY/NJ	6	65
+334	16165	Example Product 16165	Chicago IL	2	65
+335	22717	Example Product 22717	Los Angeles CA	4	65
+336	18836	Example Product 18836	Port Authority of New York/New Jersey NY/NJ	6	64
+337	3629	Example Product 3629	Chicago IL	2	64
+338	113	Example Product 113	Chicago IL	2	64
+339	7124	Example Product 7124	New Orleans LA	5	63
+340	21679	Example Product 21679	Philadelphia PA	7	63
+341	18073	Example Product 18073	Savannah GA	10	63
+342	3583	Example Product 3583	Chicago IL	2	63
+343	18090	Example Product 18090	Memphis TN	1	63
+344	17097	Example Product 17097	Mobile AL	8	63
+345	3306	Example Product 3306	Chicago IL	2	62
+346	18833	Example Product 18833	Philadelphia PA	7	62
+347	28311	Example Product 28311	Port Authority of New York/New Jersey NY/NJ	6	62
+348	13622	Example Product 13622	Memphis TN	1	62
+349	16189	Example Product 16189	Charleston SC	9	62
+350	7115	Example Product 7115	Mobile AL	8	62
+351	18112	Example Product 18112	Chicago IL	2	62
+352	8066	Example Product 8066	Memphis TN	1	61
+353	3313	Example Product 3313	Charleston SC	9	61
+354	8849	Example Product 8849	Port Authority of New York/New Jersey NY/NJ	6	61
+355	8860	Example Product 8860	Philadelphia PA	7	61
+356	15232	Example Product 15232	New Orleans LA	5	60
+357	3170	Example Product 3170	Mobile AL	8	60
+358	161	Example Product 161	Chicago IL	2	60
+359	26473	Example Product 26473	Memphis TN	1	60
+360	13614	Example Product 13614	Los Angeles CA	4	60
+361	4295	Example Product 4295	Los Angeles CA	4	60
+362	19855	Example Product 19855	Charleston SC	9	60
+363	28357	Example Product 28357	Los Angeles CA	4	60
+364	28349	Example Product 28349	Memphis TN	1	59
+365	22714	Example Product 22714	Port Authority of New York/New Jersey NY/NJ	6	59
+366	24511	Example Product 24511	Houston TX	3	59
+367	2478	Example Product 2478	Chicago IL	2	59
+368	7572	Example Product 7572	Charleston SC	9	59
+369	12737	Example Product 12737	Memphis TN	1	59
+370	26465	Example Product 26465	Memphis TN	1	59
+371	18119	Example Product 18119	Houston TX	3	58
+372	7642	Example Product 7642	Houston TX	3	58
+373	119	Example Product 119	Port Authority of New York/New Jersey NY/NJ	6	58
+374	3204	Example Product 3204	Charleston SC	9	58
+375	5713	Example Product 5713	Port Authority of New York/New Jersey NY/NJ	6	57
+376	8850	Example Product 8850	Los Angeles CA	4	57
+377	17321	Example Product 17321	Mobile AL	8	57
+378	20570	Example Product 20570	New Orleans LA	5	57
+379	19814	Example Product 19814	Charleston SC	9	57
+380	8068	Example Product 8068	Los Angeles CA	4	56
+381	3289	Example Product 3289	Charleston SC	9	56
+382	18867	Example Product 18867	Memphis TN	1	55
+383	4305	Example Product 4305	Chicago IL	2	55
+384	8037	Example Product 8037	Memphis TN	1	55
+385	18113	Example Product 18113	Chicago IL	2	55
+386	22728	Example Product 22728	Charleston SC	9	55
+387	3251	Example Product 3251	Charleston SC	9	55
+388	10342	Example Product 10342	Chicago IL	2	55
+389	16231	Example Product 16231	Port Authority of New York/New Jersey NY/NJ	6	55
+390	8852	Example Product 8852	Houston TX	3	54
+391	5112	Example Product 5112	Memphis TN	1	54
+392	162	Example Product 162	Memphis TN	1	54
+393	21675	Example Product 21675	Philadelphia PA	7	54
+394	26502	Example Product 26502	Mobile AL	8	54
+395	10350	Example Product 10350	Charleston SC	9	54
+396	22789	Example Product 22789	New Orleans LA	5	54
+397	826	Example Product 826	Memphis TN	1	54
+398	1552	Example Product 1552	New Orleans LA	5	54
+399	5117	Example Product 5117	Los Angeles CA	4	54
+400	4291	Example Product 4291	Los Angeles CA	4	53
+401	25390	Example Product 25390	Houston TX	3	53
+402	4293	Example Product 4293	Los Angeles CA	4	53
+403	18829	Example Product 18829	Los Angeles CA	4	53
+404	28336	Example Product 28336	New Orleans LA	5	53
+405	7117	Example Product 7117	Charleston SC	9	53
+406	17365	Example Product 17365	Charleston SC	9	53
+407	4053	Example Product 4053	Savannah GA	10	52
+408	28406	Example Product 28406	Savannah GA	10	52
+409	2454	Example Product 2454	Savannah GA	10	52
+410	7563	Example Product 7563	Houston TX	3	52
+411	28343	Example Product 28343	Memphis TN	1	52
+412	145	Example Product 145	Los Angeles CA	4	52
+413	25378	Example Product 25378	Houston TX	3	52
+414	5720	Example Product 5720	Philadelphia PA	7	52
+415	23663	Example Product 23663	Houston TX	3	52
+416	16137	Example Product 16137	Memphis TN	1	52
+417	12732	Example Product 12732	Los Angeles CA	4	52
+418	137	Example Product 137	Chicago IL	2	52
+419	8077	Example Product 8077	Houston TX	3	52
+420	8033	Example Product 8033	Chicago IL	2	51
+421	7489	Example Product 7489	New Orleans LA	5	51
+422	4386	Example Product 4386	Memphis TN	1	51
+423	18813	Example Product 18813	Chicago IL	2	51
+424	18058	Example Product 18058	Houston TX	3	51
+425	7828	Example Product 7828	Port Authority of New York/New Jersey NY/NJ	6	51
+426	22735	Example Product 22735	Port Authority of New York/New Jersey NY/NJ	6	51
+427	18105	Example Product 18105	Port Authority of New York/New Jersey NY/NJ	6	51
+428	8915	Example Product 8915	Chicago IL	2	51
+429	16161	Example Product 16161	Port Authority of New York/New Jersey NY/NJ	6	50
+430	7156	Example Product 7156	New Orleans LA	5	50
+431	6280	Example Product 6280	Los Angeles CA	4	50
+432	146	Example Product 146	Charleston SC	9	50
+433	184	Example Product 184	Charleston SC	9	50
+434	22910	Example Product 22910	Memphis TN	1	50
+435	4332	Example Product 4332	New Orleans LA	5	50
+436	17119	Example Product 17119	Charleston SC	9	50
+437	16120	Example Product 16120	Houston TX	3	50
+438	7514	Example Product 7514	Memphis TN	1	50
+439	16139	Example Product 16139	Port Authority of New York/New Jersey NY/NJ	6	50
+440	3320	Example Product 3320	Charleston SC	9	49
+441	7126	Example Product 7126	Mobile AL	8	49
+442	4060	Example Product 4060	Charleston SC	9	49
+443	18086	Example Product 18086	Houston TX	3	49
+444	26455	Example Product 26455	Memphis TN	1	49
+445	6355	Example Product 6355	Memphis TN	1	49
+446	18108	Example Product 18108	Chicago IL	2	49
+447	22720	Example Product 22720	Port Authority of New York/New Jersey NY/NJ	6	49
+448	14350	Example Product 14350	New Orleans LA	5	49
+449	10707	Example Product 10707	Savannah GA	10	49
+450	3229	Example Product 3229	Charleston SC	9	48
+451	25376	Example Product 25376	Houston TX	3	48
+452	5105	Example Product 5105	Philadelphia PA	7	48
+453	17128	Example Product 17128	Chicago IL	2	48
+454	25379	Example Product 25379	Houston TX	3	48
+455	24478	Example Product 24478	Houston TX	3	48
+456	142	Example Product 142	Chicago IL	2	48
+457	115	Example Product 115	Memphis TN	1	48
+458	24496	Example Product 24496	Chicago IL	2	47
+459	3266	Example Product 3266	Charleston SC	9	47
+460	2450	Example Product 2450	Chicago IL	2	47
+461	3255	Example Product 3255	Memphis TN	1	47
+462	25373	Example Product 25373	Memphis TN	1	47
+463	3238	Example Product 3238	Philadelphia PA	7	47
+464	18819	Example Product 18819	Chicago IL	2	47
+465	165	Example Product 165	Charleston SC	9	47
+466	7136	Example Product 7136	Houston TX	3	47
+467	3216	Example Product 3216	Memphis TN	1	46
+468	5131	Example Product 5131	New Orleans LA	5	46
+469	3405	Example Product 3405	Memphis TN	1	46
+470	18869	Example Product 18869	Port Authority of New York/New Jersey NY/NJ	6	46
+471	28329	Example Product 28329	Memphis TN	1	46
+472	15252	Example Product 15252	Charleston SC	9	45
+473	18862	Example Product 18862	Memphis TN	1	45
+474	5712	Example Product 5712	Chicago IL	2	45
+475	15997	Example Product 15997	Philadelphia PA	7	45
+476	26501	Example Product 26501	Mobile AL	8	45
+477	3303	Example Product 3303	Memphis TN	1	45
+478	3218	Example Product 3218	Memphis TN	1	45
+479	7141	Example Product 7141	Philadelphia PA	7	45
+480	16095	Example Product 16095	Port Authority of New York/New Jersey NY/NJ	6	44
+481	5716	Example Product 5716	Philadelphia PA	7	44
+482	4315	Example Product 4315	Los Angeles CA	4	44
+483	17110	Example Product 17110	Memphis TN	1	44
+484	4355	Example Product 4355	Memphis TN	1	44
+485	6326	Example Product 6326	Memphis TN	1	44
+486	25371	Example Product 25371	Houston TX	3	44
+487	28395	Example Product 28395	Memphis TN	1	44
+488	21691	Example Product 21691	Philadelphia PA	7	44
+489	20561	Example Product 20561	Los Angeles CA	4	44
+490	202	Example Product 202	Charleston SC	9	44
+491	2465	Example Product 2465	Philadelphia PA	7	44
+492	3400	Example Product 3400	Charleston SC	9	43
+493	28337	Example Product 28337	Los Angeles CA	4	43
+494	4417	Example Product 4417	Memphis TN	1	43
+495	8867	Example Product 8867	Houston TX	3	43
+496	21681	Example Product 21681	Philadelphia PA	7	43
+497	7576	Example Product 7576	Charleston SC	9	43
+498	18100	Example Product 18100	Philadelphia PA	7	43
+499	3215	Example Product 3215	New Orleans LA	5	43
+500	5121	Example Product 5121	New Orleans LA	5	43
