@@ -1,0 +1,7 @@
+NAME: terraform-instance
+ZONE: us-east1-c
+MACHINE_TYPE: e2-micro
+PREEMPTIBLE: 
+INTERNAL_IP: 10.1.0.2
+EXTERNAL_IP: 34.74.34.187
+STATUS: RUNNING
